@@ -1,4 +1,4 @@
-Hi, I’m Danish! I'm a 𝐌𝐨𝐛𝐢𝐥𝐞 𝐀𝐩𝐩 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 with over 4 years of experience building apps for iOS, Android, Flutter, and React Native. I focus on delivering user friendly solutions that help businesses scale and provide real value to their users.
+Hi, I’m Peculiar! I'm a 𝐌𝐨𝐛𝐢𝐥𝐞 𝐀𝐩𝐩 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 with over 4 years of experience building apps for iOS, Android, Flutter, and React Native. I focus on delivering user friendly solutions that help businesses scale and provide real value to their users.
 
 I specialize in Mobile App Development across a wide range of industries:
 
